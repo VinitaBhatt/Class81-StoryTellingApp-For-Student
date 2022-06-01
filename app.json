@@ -1,10 +1,11 @@
 {
   "expo": {
-    "name": "Story-Telling-Class81",
-    "slug": "Story-Telling-Class81",
+    "name": "Class81-Teacher-Activity",
+    "slug": "Class81-Teacher-Activity",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
